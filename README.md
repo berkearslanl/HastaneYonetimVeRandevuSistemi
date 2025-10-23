@@ -43,6 +43,10 @@
 
 ### 🔹 Hasta Kayıt Ekranı
 
+<img width="650" height="491" alt="hastakayıt" src="https://github.com/user-attachments/assets/73847148-6bab-47da-affb-2df909890a5a" /><br><br>
+
+### 🔹 Hasta Detay Ekranı
+
 <img width="1468" height="736" alt="hastadetay" src="https://github.com/user-attachments/assets/e8023e5c-5df6-47b8-94b4-687bffa361be" /><br><br>
 
 ### 🔹 Hasta Bilgi Güncelleme Ekranı
@@ -52,6 +56,10 @@
 ### 🔹 Doktor Giriş Ekranı
 
 <img width="810" height="421" alt="doktorgiris" src="https://github.com/user-attachments/assets/200d0ee9-c824-4f35-86f8-70b83e0476e3" /><br><br>
+
+### 🔹 Doktor Detay Ekranı
+
+<img width="1502" height="787" alt="doktordetay" src="https://github.com/user-attachments/assets/62c5be36-ea5a-465c-9019-35efd22d4485" /><br><br>
 
 ### 🔹 Doktor Bilgi Güncelleme Ekranı
 
