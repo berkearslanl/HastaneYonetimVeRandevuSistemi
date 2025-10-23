@@ -75,7 +75,7 @@
 
 ### 🔹 Duyurular Ekranı
 
-<img width="1513" height="1002" alt="duyurular" src="https://github.com/user-attachments/assets/0141c83f-201e-4f45-a805-bac462a881e3" /><br><br>
+<img width="1513" height="1002" alt="duyurular" src="https://github.com/user-attachments/assets/3c8ca0d4-d3d1-4630-89aa-3703d7cef310" /><br><br>
 
 ### 🔹 Randevular Ekranı
 
