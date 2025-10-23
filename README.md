@@ -1,7 +1,8 @@
 # 🏥 Hastane Yönetim ve Randevu Sistemi
 
-Bu proje, hastane ortamında **randevu alma**, **hasta bilgilerini yönetme** ve **doktor–hasta etkileşimini kolaylaştırma** amacıyla geliştirilmiş bir masaüstü uygulamasıdır.  
-Proje **C# (.NET Framework)** kullanılarak oluşturulmuş olup, kullanıcı dostu bir arayüze sahiptir. Bu proje için Murat Yücedağ'a emekleri için teşekkür ederim.
+🔹Bu proje, hastane ortamında **randevu alma**, **hasta bilgilerini yönetme** ve **doktor–hasta etkileşimini kolaylaştırma** amacıyla geliştirilmiş bir masaüstü uygulamasıdır.  
+🔹Proje **C# (.NET Framework)** kullanılarak oluşturulmuş olup, kullanıcı dostu bir arayüze sahiptir. 
+🔹Bu proje için Murat Yücedağ'a emekleri için teşekkür ederim.
 
 ---
 
@@ -32,17 +33,32 @@ Proje **C# (.NET Framework)** kullanılarak oluşturulmuş olup, kullanıcı dos
 
 📸 *Aşağıda proje arayüzüne ait örnek görseller yer almaktadır:*
 
-### 🔹 Giriş Ekranı
-![Giriş Ekranı](sc/giris-ekrani.png)
+### 🔹 Girişler Ekranı
+
+<img width="916" height="481" alt="girisler" src="https://github.com/user-attachments/assets/7a51daee-dc92-44a7-97f7-e9d7fef936e7" /><br><br>
+
+### 🔹 Hasta Giriş Ekranı
+
+<img width="810" height="421" alt="hastagiris" src="https://github.com/user-attachments/assets/4866e15b-8b93-40b6-a92e-5a1dc05234dd" /><br><br>
 
 ### 🔹 Hasta Kayıt Ekranı
-![Hasta Kayıt](sc/hasta-kayit.png)
 
-### 🔹 Randevu Oluşturma Paneli
-![Randevu Paneli](sc/randevu-paneli.png)
+<img width="1468" height="736" alt="hastadetay" src="https://github.com/user-attachments/assets/e8023e5c-5df6-47b8-94b4-687bffa361be" /><br><br>
+
+### 🔹 Hasta Bilgi Güncelleme Ekranı
+
+<img width="643" height="531" alt="hastabilgiduzenle" src="https://github.com/user-attachments/assets/8df6f0b1-06dd-41fd-a808-c0be8e07e26c" /><br><br>
+
+### 🔹 Doktor Giriş Ekranı
+
+<img width="810" height="421" alt="doktorgiris" src="https://github.com/user-attachments/assets/200d0ee9-c824-4f35-86f8-70b83e0476e3" /><br><br>
+
+### 🔹 Doktor Bilgi Güncelleme Ekranı
+
+<img width="695" height="530" alt="doktorbilgiduzenle" src="https://github.com/user-attachments/assets/05a4723b-1cde-4769-9116-e22adbce7b2f" /><br><br>
 
 ### 🔹 Doktor/Hasta Listesi
-![Listeleme](sc/liste-ekrani.png)
+
 
 ### 🔹 SQL Veritabanı Diyagramı
 ![Veritabanı Diyagramı](sc/sql-diyagram.png)
