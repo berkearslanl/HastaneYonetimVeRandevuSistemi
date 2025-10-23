@@ -65,8 +65,23 @@
 
 <img width="695" height="530" alt="doktorbilgiduzenle" src="https://github.com/user-attachments/assets/05a4723b-1cde-4769-9116-e22adbce7b2f" /><br><br>
 
-### 🔹 Doktor/Hasta Listesi
+### 🔹 Sekreter Giriş Ekranı
 
+<img width="810" height="421" alt="sekretergiris" src="https://github.com/user-attachments/assets/a3954a47-5ece-4700-b61e-c71127625e68" /><br><br>
 
-### 🔹 SQL Veritabanı Diyagramı
-![Veritabanı Diyagramı](sc/sql-diyagram.png)
+### 🔹 Sekreter Detay Ekranı
+
+<img width="1397" height="759" alt="sekreterdetay" src="https://github.com/user-attachments/assets/28ecd194-f224-43e0-aed1-6fa189163e39" /><br><br>
+
+### 🔹 Duyurular Ekranı
+
+<img width="1513" height="1002" alt="duyurular" src="https://github.com/user-attachments/assets/0141c83f-201e-4f45-a805-bac462a881e3" /><br><br>
+
+### 🔹 Randevular Ekranı
+
+<img width="1513" height="1002" alt="randevular" src="https://github.com/user-attachments/assets/d595492f-749e-4fdd-b3bd-cb12435b2573" /><br><br>
+
+### 🔹 Doktor/Branş Listesi
+
+<img width="1403" height="479" alt="doktorduzenle" src="https://github.com/user-attachments/assets/43440686-3923-401f-b9fc-e05010b5e785" /><br><br>
+<img width="1052" height="325" alt="bransduzenle" src="https://github.com/user-attachments/assets/f7859176-34f7-41c2-a492-6f821164b385" /><br><br>
