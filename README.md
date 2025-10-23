@@ -79,7 +79,7 @@
 
 ### 🔹 Randevular Ekranı
 
-<img width="1513" height="1002" alt="randevular" src="https://github.com/user-attachments/assets/d595492f-749e-4fdd-b3bd-cb12435b2573" /><br><br>
+<img width="1513" height="1002" alt="randevularr" src="https://github.com/user-attachments/assets/5c5b3ff7-377b-45e9-be3d-6947a64eaa02" /><br><br>
 
 ### 🔹 Doktor/Branş Listesi
 
