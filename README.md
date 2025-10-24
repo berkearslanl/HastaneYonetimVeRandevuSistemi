@@ -1,8 +1,8 @@
 # 🏥 Hastane Yönetim ve Randevu Sistemi
 
-🔹Bu proje, hastane ortamında **randevu alma**, **hasta bilgilerini yönetme** ve **doktor–hasta etkileşimini kolaylaştırma** amacıyla geliştirilmiş bir masaüstü uygulamasıdır.  
-🔹Proje **C# (.NET Framework)** kullanılarak oluşturulmuş olup, kullanıcı dostu bir arayüze sahiptir. 
-🔹Bu proje için Murat Yücedağ'a emekleri için teşekkür ederim.
+🔹Bu proje, hastane ortamında **randevu alma**, **hasta bilgilerini yönetme** ve **doktor–hasta etkileşimini kolaylaştırma** amacıyla geliştirilmiş bir masaüstü uygulamasıdır. <br> 
+🔹Proje **C# (.NET Framework)** kullanılarak oluşturulmuş olup, kullanıcı dostu bir arayüze sahiptir. <br>
+🔹Bu proje için Murat Yücedağ'a emekleri için teşekkür ederim.<br>
 
 ---
 
